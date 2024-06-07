@@ -76,6 +76,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+These workshops are funded by the WHOI Academic Programs Office.
 
 <h2 id="general">General Information</h2>
 
@@ -86,7 +87,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-These workshops are funded by the WHOI Academic Programs Office.
+
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
