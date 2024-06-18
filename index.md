@@ -413,6 +413,8 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
+Please make sure you have installed all the required packages before the start of this workshop. We will be holding an on-line data lab with Stace Beaulieu on May 20 and can help you install the packages if necessary. 
+
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
