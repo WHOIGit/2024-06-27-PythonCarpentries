@@ -401,7 +401,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 <h2 id="data">Getting the data</h2>
 
 <p>
-The data we will be using is taken from the gapminder dataset. To obtain it, download and unzip the file [python-novice-gapminder-data.zip](https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip). In order to follow the presented material, you should launch the JupyterLab server in the root directory (see Starting JupyterLab).
+The data we will be using is taken from the gapminder dataset. To obtain it, download and unzip the file <a href = "https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">python-novice-gapminder-data.zip</a>. In order to follow the presented material, you should launch the JupyterLab server in the root directory (see Starting JupyterLab). 
 </p>
 
 
